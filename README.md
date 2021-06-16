@@ -9,7 +9,7 @@
 
 #### Proveedores internacionales: (Medio/Ideal)
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/george.png "George")
+
 
 ##### *George*, su nombre/apodo occidental, es un proveedor chino de 30 años.
 ###### Viaja en los veranos en busca de cerezas para importar a Tianjin, una gran ciudad china. Siempre anda de reunión en reunión sobretodo en terreno por lo que busca clientes por su celular, bordeando la adicción e éste. Es muy trabajólico y entregado a su trabajo priorizandolo respectos a otros aspectos de su vida. Allá como costumbre se estila poseer frutas determinadas como un signo de estatus; lo cual tuvo su boom en los últimos años. Obsequiar una cajita de caras cerezas se considera un regalo que representa buena reputación y generosidad; por lo que intenta sacarle el mejor provecho posible y siente que es una buena oportunidad. También por ese motivo, el precio de las cerezas de importación no ha dejado de subir; vista como un bien de lujo con carácter y especial. Además, el mercado que maneja George y su clientela es muy amplia por lo que la demanda de éstos también lo es. El busca comprar en cantidades grandes, tiene el capital y contactos para hacerlo. Si bien las cerezas suelen tener un aire algo tradicional; con el resto de productos busca lograr insertarlos con un significado en la población china; como algo moderno, algo llamativo, algo en tendencia. Que sea fotografiable y deseable.
