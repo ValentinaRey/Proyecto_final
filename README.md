@@ -7,11 +7,14 @@
 
 ## Para quienes
 
+
 ### Proveedores internacionales: (medio)
+
+
 ####  George, su nombre occidental, es un proveedor chino de 30 años que viene en los veranos en busca de cerezas para importar en una gran ciudad china; siempre anda de reunión en reunión sobretodo en terreno por lo que busca clientes por su celular. Alla como costumbre nueva (hay un boom de la fruta)ésta es vista como un bien de lujo, algo regalable, con caracter y especial, por lo que intentará sacarle la mayor ganancia a su venta. Es un muy buen cliente, el precio de compra que ofrece es muy bueno por lo que busca algo especial.
 
 ### Proveedores nacionales: (extremo) 
-#### Juan pablo Miranda 44 años, tiene un packing de exportación sin embargo no tiene suficiente terreno para producir, por lo que tiene que suplir su demanda comprando a otras agricolas. Busca buenos precios, para que sea rentable su negocio. Anda mucho en terreno, ya sea en su campo o buscando proveedores por lo que siempre anda con su celular. 
+#### Juan pablo Miranda 44 años, su familia a tenido campo siempre pero ultimamente no han administrado muy bien, tiene un packing de exportación sin embargo no tiene suficiente terreno para producir, por lo que tiene que suplir su demanda comprando a otras agricolas. Busca buenos precios, para que sea rentable su negocio. Anda mucho en terreno, ya sea en su campo o buscando proveedores por lo que siempre anda con su celular. 
 
 ### Vendedores locales (Extremo)
 #### Miguel 53 años, tiene un puesto de frutas en la vega por lo que busca como abastecer su local, su foco es buscar el precio mas barato pero que tenga una calidad buena, que llame la atencion de sus clientes con productos novedosos ya que tiene mucha competencia. Para el la vega es su vida, de familia de esfuerzo, busca sacar a sus hijos adelante, le interesa mas el producto en si que el transfondo de la marca.
@@ -126,14 +129,15 @@
 1. poco contraste en tipografia light blanca
 
 ## Referentes 
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/referentes.png "Mood Board")
+
+1. La identidad del la pagina intenta ser colorida y con caracter mediante bloques de colores y contrastes fuertes; ésto con el fin de lograr llamar la atención en mercados internacionales al ser considerado un bien de lujo o algo deseable; no meramente comida. 
+2. La frescura se transmite con transparencias, humedad, agua y gotas pero controlado. Por otro lado, se destacan las texturas de las frutas con el fin de mostrar la escencia natural y realista. 
+3. El azul como color artificial y contrastante es un buen color para rasaltar los colores del producto; algo muy importante para definir el estado de maduracion de éste y su calidad.
+4. Los zoom a las frutas transmite seguiridad en la calidad de éstos.
+5. La mezcla de mas de un producto en una imagen enriquece y potencia el significado que tiene detras la marca y su intención. 
+6. En las 6 fotos y la paleta de colores se puede observar una continuidad del relato de la marca; siendo única y buscando posicionarse mediante su propia identidad distintiva. Buscando llenar de significado a sus clientes; no como simplemente fruta.
 
 
-
-#####
-#####
-#####
-#####
-#####
-#####
 
 
