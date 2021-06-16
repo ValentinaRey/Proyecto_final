@@ -7,8 +7,9 @@
 
 ## Para quienes
 
-#### Proveedores internacionales: George: 
-#### Proveedores nacionales
+#### Proveedores internacionales: (medio) George, su nombre occidental, es un proveedor chino de 45 años que viene en los veranos en busca de cerezas para importar en una gran ciudad china; siempre anda de reunión en reunión sobretodo en terreno por lo que busca clientes por su celular. Alla como costumbre nueva (hay un boom de la fruta)ésta es vista como un bien de lujo, algo regalable, con caracter y especial, por lo que intentará sacarle la mayor ganancia a su venta. Es un muy buen cliente, el precio de compra que ofrece es muy bueno por lo que busca algo especial.
+
+#### Proveedores nacionales: (extremo) Juan pablo Miranda, 
 #### Vendedores locales
 
 
@@ -111,7 +112,7 @@
 
 ##### Positivo
 
-1.Buena grafica
+1. Buena grafica
 2. Contraste de colores de fondo
 3. Animaciones en productos 
 4. Transiciones
