@@ -160,7 +160,7 @@
 #### Análisis de imágenes
 
 ##### Fotográfia de Frutas: 
-##### Utiliza el azul y en degrade a una textura de agua, color que alude a fescura y temperaturas bajas en donde se asocia a que el producto estará en buen estado y bien conservado. La mezcla de más de un producto en una imágen enriquece y potencia el significado que tiene detras la marca y su intención. La fruta cortada es otro indicio de seguridad frente a la calidad.
+##### Utiliza el azul y en degrade a una textura de agua, color que alude a fescura y temperaturas bajas en donde se asocia a que el producto estará en buen estado y bien conservado. La mezcla de más de un producto en una imágen enriquece y potencia el significado que tiene detras la marca y su intención. La fruta cortada es otro indicio de seguridad frente a la calidad.Rompe con la concepción tradicional que se tiene sobre la fruta.
 
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/frutas.png "frutas")
 
