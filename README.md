@@ -18,9 +18,12 @@
 ##### Juan Pablo Miranda, Agrícola de 44 años. 
 ###### Viene de una familia tradicional, de Talca, que ha estado ligada al agro desde generaciones pero últimamente no han administrado muy bien su negocio y tuvieron que vender parte de los terrenos de producción. Tiene un packing en donde distribuyen sus productos sin embargo no tiene suficiente terreno para producir ya que mantienen relación con antiguos clientes pero su capacidad ya no es la misma de antes, por lo que tiene que suplir su demanda comprando a otras agricolas para poder cumplir con los contratos que tenían acordados. Busca buenos precios, para que sea rentable su negocio aunque sigue manteniendo su interés por dar un producto con experiencia y gran calidad su estado financiero no se lo permite a cabalidad; por lo que tendrá que regatear y negociar el mejor precio aunque no se sienta orgulloso de hacerlo. Anda mucho en terreno, ya sea trabajando en su campo o buscando proveedores por lo que siempre anda con su celular el caul suele mirar desde su camioneta en momentos de descanso; muy de vez en cuando usa el computador, no se relaciona tanto con la tecnología pese a su edad. Piensa y quiere poder darle los mejores porductos aa sus clientes pero está agobiado por que no sabe como lo logrará.
 
-#### Vendedores locales (Extremo)
-##### Miguel, 53 años. 
-###### Tiene un puesto de frutas en la vega por lo que busca como abastecer su local, su foco es buscar el precio mas barato pero que tenga una calidad buena, que llame la atencion de sus clientes con productos novedosos ya que tiene mucha competencia. Para el la vega es su vida, de familia de esfuerzo, busca sacar a sus hijos adelante, le interesa mas el producto en si que el transfondo de la marca.
+#### Gerentes de grandes supermercados (Extremo)
+
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/jumbo.png "Jumbo")
+
+##### Rodrigo Larrain, Gerente de Ventas Jumbo Zona Oriente  48 años. 
+###### Es el encargado de generar alianzas y contratos con agrícolas para abstecer la zona de verdulería de los supermercados Jumbo. Es ingeniero comercial, y su prioridad en parte son los números y negocios que pueda tener en caso de contactar a la agrícola. Pero además de ésto, le importa el marketing y el valor que le pueda otorgar la marca de la agrícola y su identidad dentro del supermercado posicionandola como un producto más exclusivo y asi atraer a una clientela con mayor ingresos económicos; lo cúal es viable ya que estos se encuentran en comunas con alto estandar de vida. Su trabajo es mayoritariamente de oficina por lo que revisa páginas desde su computador de mesa. Es muy minucioso con los proveedores que elige la empresa, ya que le importa mucho su trabajo y siempre está cuidandolo. Es un fan del marketing asi que le importa bastante el como se presenta el producto y su identidad. Siente una gran responsabilidad frente a esta elección.
 
 
 ## Antecedentes 
