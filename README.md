@@ -157,7 +157,13 @@
 ## Referentes 
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/referentes.png "Mood Board")
 
-#### Análisis de imágenes
+#### Paleta de colores:  
+
+##### Se puede observar una continuidad del relato en las imagenes y la identidad distintiva que proyectan; generando un producto con valor simbólico. El azul como color artificial y contrastante es un buen color para rasaltar los colores del producto; algo muy importante para definir el estado de maduracion de éste y su calidad.Además le otorga un aire de modernidad, muy contrastante con la concepción de campo chileno, pudiendo así destacar a nivel internaciona.
+
+##### La identidad intenta ser colorida y con carácter mediante bloques de colores y contrastes fuertes; ésto con el fin de lograr llamar la atención y considerado un bien de lujo o algo deseable; no meramente comida.
+
+### Análisis de imágenes
 
 ##### Fotográfia de Frutas: 
 ##### Utiliza el azul y en degrade a una textura de agua, color que alude a fescura y temperaturas bajas en donde se asocia a que el producto estará en buen estado y bien conservado. La mezcla de más de un producto en una imágen enriquece y potencia el significado que tiene detras la marca y su intención. La fruta cortada es otro indicio de seguridad frente a la calidad.Rompe con la concepción tradicional que se tiene sobre la fruta.
@@ -187,14 +193,9 @@
 #### Perfume Dark Fresh de *Desigual*: 
 ##### Capta lo fresco, pero de una manera disruptiva y no obvia; juega con elementos como  frutas, agua, colores, texturas para componer una identidad potente. Proyecta frescura pero con carácter. Constrastan bien los colores y tiene un aire moderno; siendo una reinvención de la frescura que generalmente se asocia a algo *soft* o *light*
 
-
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/perfume.png "perfume")
 
-#### Paleta de colores:  
 
-##### Se puede observar una continuidad del relato en las imagenes y la identidad distintiva que proyectan; generando un producto con valor simbólico. El azul como color artificial y contrastante es un buen color para rasaltar los colores del producto; algo muy importante para definir el estado de maduracion de éste y su calidad.Además le otorga un aire de modernidad, muy contrastante con la concepción de campo chileno, pudiendo así destacar a nivel internaciona.
-
-##### La identidad intenta ser colorida y con carácter mediante bloques de colores y contrastes fuertes; ésto con el fin de lograr llamar la atención y considerado un bien de lujo o algo deseable; no meramente comida.
 
 
 
