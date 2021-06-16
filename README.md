@@ -14,7 +14,23 @@
 
 ## Antecedentes 
 
-#####
+####  Ciavolich Vini: Sitio web que da a conocer la historia, cultura y territorio de esta bodega italiana de Abruzzo 
+#### [link](https://www.ciavolich.com/)
+#### Aspectos positivos: 
+
+1. Tipografía sans serif en título
+2. Buen contraste con imagen de contexto y el texto
+3. Proyecta de buena forma la identidad del producto
+4. Muy buena gráfica editorial y diagramación tipo moodboard.
+5. Seleccionador de idiomas. 
+6. Se indica el scrol
+
+#### Aspectos negativos:
+1. Índice un tanto enredado
+2. No tiene icono para volver arriba, hay que hacer el scroll de vuelta.
+
+
+
 #####
 #####
 #####
