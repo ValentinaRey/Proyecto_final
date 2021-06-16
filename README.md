@@ -7,9 +7,9 @@
 
 ## Para quienes
 
-#### Proveedores internacionales
-#### Proveedores nacionales
-#### Vendedores locales
+#### Proveedores internacionales (usuario medio): 
+#### Proveedores nacionales (usuario extremo):
+#### Vendedores locales (usuario extremo):
 
 
 ## Antecedentes 
