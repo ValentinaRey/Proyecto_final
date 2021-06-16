@@ -159,14 +159,13 @@
 
 #### Análisis de imágenes
 
-##### 
-
+##### Fotográfia de Frutas: Utiliza el azul, color que alude a fescura y temperaturas bajas, 
 
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/frutas.png "frutas")
 
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/platano.png "platano y vidrio")
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/naranja.png naranja y agua")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/naranja.png "naranja y agua")
 
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/cereza.png "zoom cereza")
 
