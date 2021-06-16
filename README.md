@@ -157,17 +157,22 @@
 ## Referentes 
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/referentes.png "Mood Board")
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ant-1.png "Cianovalich")
+#### Análisis de imágenes
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ant-2.png "Cianovalich")
+##### 
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ant-3.png "Cianovalich")
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ant-4.png "Cianovalich")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/frutas.png "frutas")
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ant-5.png "Cianovalich")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/platano.png "platano y vidrio")
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ant-6.png "Cianovalich")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/naranja.png naranja y agua")
+
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/cereza.png "zoom cereza")
+
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/arandanos.png "zoom arandanos")
+
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/perfume.png "perfume")
 
 1. En primer lugar, trate de expresar mediante frutas, agua, colores, texturas y el perfume Dark Fresh de Desigual que capta lo fresco, pero de una manera disruptiva ; jugando con estos elementos para componer la identidad de la página.
 2. La identidad del la pagina intenta ser colorida y con caracter mediante bloques de colores y contrastes fuertes; ésto con el fin de lograr llamar la atención en mercados internacionales al ser considerado un bien de lujo o algo deseable; no meramente comida. 
