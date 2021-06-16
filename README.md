@@ -7,13 +7,14 @@
 
 ## Para quienes
 
-#### Proveedores internacionales: (medio)
+### Proveedores internacionales: (medio)
 ####  George, su nombre occidental, es un proveedor chino de 30 años que viene en los veranos en busca de cerezas para importar en una gran ciudad china; siempre anda de reunión en reunión sobretodo en terreno por lo que busca clientes por su celular. Alla como costumbre nueva (hay un boom de la fruta)ésta es vista como un bien de lujo, algo regalable, con caracter y especial, por lo que intentará sacarle la mayor ganancia a su venta. Es un muy buen cliente, el precio de compra que ofrece es muy bueno por lo que busca algo especial.
 
-#### Proveedores nacionales: (extremo) Juan pablo Miranda 44 años, tiene un packing de exportación sin embargo no tiene suficiente terreno para producir, por lo que tiene que suplir su demanda comprando a otras agricolas. Busca buenos precios, para que sea rentable su negocio. Anda mucho en terreno, ya sea en su campo o buscando proveedores por lo que siempre anda con su celular. 
+### Proveedores nacionales: (extremo) 
+#### Juan pablo Miranda 44 años, tiene un packing de exportación sin embargo no tiene suficiente terreno para producir, por lo que tiene que suplir su demanda comprando a otras agricolas. Busca buenos precios, para que sea rentable su negocio. Anda mucho en terreno, ya sea en su campo o buscando proveedores por lo que siempre anda con su celular. 
 
-#### Vendedores locales (Extremo)
-### Miguel 53 años, tiene un puesto de frutas en la vega por lo que busca como abastecer su local, su foco es buscar el precio mas barato pero que tenga una calidad buena, que llame la atencion de sus clientes con productos novedosos ya que tiene mucha competencia. Para el la vega es su vida, de familia de esfuerzo, busca sacar a sus hijos adelante, le interesa mas el producto en si que el transfondo de la marca.
+### Vendedores locales (Extremo)
+#### Miguel 53 años, tiene un puesto de frutas en la vega por lo que busca como abastecer su local, su foco es buscar el precio mas barato pero que tenga una calidad buena, que llame la atencion de sus clientes con productos novedosos ya que tiene mucha competencia. Para el la vega es su vida, de familia de esfuerzo, busca sacar a sus hijos adelante, le interesa mas el producto en si que el transfondo de la marca.
 
 
 ## Antecedentes 
