@@ -149,10 +149,15 @@
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/referentes.png "Mood Board")
 
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ant-1.png "Cianovalich")
+
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ant-2.png "Cianovalich")
+
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ant-3.png "Cianovalich")
+
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ant-4.png "Cianovalich")
+
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ant-5.png "Cianovalich")
+
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ant-6.png "Cianovalich")
 
 1. En primer lugar, trate de expresar mediante frutas, agua, colores, texturas y el perfume Dark Fresh de Desigual que capta lo fresco, pero de una manera disruptiva ; jugando con estos elementos para componer la identidad de la página.
