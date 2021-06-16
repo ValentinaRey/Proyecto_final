@@ -16,7 +16,7 @@
 
 #### Proveedores nacionales: (Extremo) 
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/juan pablo.png "Jumbo")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/juan_pablo.jpeg "Juan Pablo")
 
 ##### Juan Pablo Miranda, Agrícola de 44 años. 
 ###### Viene de una familia tradicional, de Talca, que ha estado ligada al agro desde generaciones pero últimamente no han administrado muy bien su negocio y tuvieron que vender parte de los terrenos de producción. Tiene un packing en donde distribuyen sus productos sin embargo no tiene suficiente terreno para producir ya que mantienen relación con antiguos clientes pero su capacidad ya no es la misma de antes, por lo que tiene que suplir su demanda comprando a otras agricolas para poder cumplir con los contratos que tenían acordados. Busca buenos precios, para que sea rentable su negocio aunque sigue manteniendo su interés por dar un producto con experiencia y gran calidad su estado financiero no se lo permite a cabalidad; por lo que tendrá que regatear y negociar el mejor precio aunque no se sienta orgulloso de hacerlo. Anda mucho en terreno, ya sea trabajando en su campo o buscando proveedores por lo que siempre anda con su celular el caul suele mirar desde su camioneta en momentos de descanso; muy de vez en cuando usa el computador, no se relaciona tanto con la tecnología pese a su edad. Piensa y quiere poder darle los mejores porductos aa sus clientes pero está agobiado por que no sabe como lo logrará.
