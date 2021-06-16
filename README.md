@@ -9,6 +9,7 @@
 
 #### Proveedores internacionales: (Medio/Ideal)
 
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/george.jpeg "George")
 
 
 ##### *George*, su nombre/apodo occidental, es un proveedor chino de 30 años.
