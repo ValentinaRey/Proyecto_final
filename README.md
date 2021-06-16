@@ -192,7 +192,7 @@
 
 #### Paleta de colores:  
 
-##### Se puede observar una continuidad del relato de la marca; siendo única y buscando posicionarse mediante su propia identidad distintiva. Buscando llenar de significado a sus clientes; no como simplemente fruta. El azul como color artificial y contrastante es un buen color para rasaltar los colores del producto; algo muy importante para definir el estado de maduracion de éste y su calidad.Además le otorga un aire de modernidad, muy contrastante con la concepción de campo chileno, pudiendo así destacar a nivel internaciona
+##### Se puede observar una continuidad del relato en las imagenes y la identidad distintiva que proyectan; generando un producto con valor simbólico. El azul como color artificial y contrastante es un buen color para rasaltar los colores del producto; algo muy importante para definir el estado de maduracion de éste y su calidad.Además le otorga un aire de modernidad, muy contrastante con la concepción de campo chileno, pudiendo así destacar a nivel internaciona.
 
 ##### La identidad intenta ser colorida y con carácter mediante bloques de colores y contrastes fuertes; ésto con el fin de lograr llamar la atención y considerado un bien de lujo o algo deseable; no meramente comida.
 
