@@ -159,28 +159,34 @@
 
 #### Análisis de imágenes
 
-##### Fotográfia de Frutas: Utiliza el azul, color que alude a fescura y temperaturas bajas, 
+##### Fotográfia de Frutas: Utiliza el azul y en degrade a una textura de agua, color que alude a fescura y temperaturas bajas en donde se asocia a que el producto estará en buen estado y bien conservado. La mezcla de más de un producto en una imágen enriquece y potencia el significado que tiene detras la marca y su intención. La fruta cortada es otro indicio de seguridad frente a la calidad.
 
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/frutas.png "frutas")
 
+#### Plátano con efecto de vidrio: La frescura y pureza se transmite con transparencias, además en esta foto se logran crear zoom a la textura del plátano pero de manera creativa. Logra potenciar cualidades del producto.
+
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/platano.png "platano y vidrio")
+
+#### Naranja cayendo en agua: Muestra dinamísmo y frescura en el contraste de la fruta con el agua, se logra un contraste llamativo y se proyecta un relato sobre el producto. Se potencia el agua.
 
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/naranja.png "naranja y agua")
 
+#### Zoom de cereza: Se muestra la humedad, agua y gotas pero controlado; mostrándola como recién lavada listo para comer. Se relaciona con lo natural y nativo pero sin ser pretencioso; logrando trasnmitir cercanía pero de una forma que denoste calidad.
+
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/cereza.png "zoom cereza")
+
+#### Zoom de arándanos: Se destaca la textura de las frutas con el fin de mostrar la escencia natural y realista. Transmite seguiridad en la calidad de éstos, además de honestidad sobre lo que se ofrece.
 
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/arandanos.png "zoom arandanos")
 
+#### Perfume Dark Fresh de *Desigual*: capta lo fresco, pero de una manera disruptiva y no obvia; juega con elementos como  frutas, agua, colores, texturas para componer una identidad potente. Proyecta frescura pero con carácter. Constrastan bien los colores y tiene un aire moderno; siendo una reinvención de la frescura que generalmente se asocia a algo *soft* o *light*
+
+
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/perfume.png "perfume")
 
-1. En primer lugar, trate de expresar mediante frutas, agua, colores, texturas y el perfume Dark Fresh de Desigual que capta lo fresco, pero de una manera disruptiva ; jugando con estos elementos para componer la identidad de la página.
-2. La identidad del la pagina intenta ser colorida y con caracter mediante bloques de colores y contrastes fuertes; ésto con el fin de lograr llamar la atención en mercados internacionales al ser considerado un bien de lujo o algo deseable; no meramente comida. 
-3. La frescura se transmite con transparencias, humedad, agua y gotas pero controlado. Por otro lado, se destacan las texturas de las frutas con el fin de mostrar la escencia natural y realista. Además de proyectar una temperatura fresca y baja en donde se asocia a que el producto estará en buen estado y bien conservado.
-4. El azul como color artificial y contrastante es un buen color para rasaltar los colores del producto; algo muy importante para definir el estado de maduracion de éste y su calidad. Además le otorga un aire de modernidad, muy contrastante con la concepción de campo chileno, pudiendo así destacar a nivel internacional.
-5. Los zoom a las frutas transmite seguiridad en la calidad de éstos.
-6. La mezcla de mas de un producto en una imagen enriquece y potencia el significado que tiene detras la marca y su intención. 
-7. En las 6 fotos y la *paleta de colores* se puede observar una continuidad del relato de la marca; siendo única y buscando posicionarse mediante su propia identidad distintiva. Buscando llenar de significado a sus clientes; no como simplemente fruta.
+#### Paleta de colores:  Se puede observar una continuidad del relato de la marca; siendo única y buscando posicionarse mediante su propia identidad distintiva. Buscando llenar de significado a sus clientes; no como simplemente fruta. El azul como color artificial y contrastante es un buen color para rasaltar los colores del producto; algo muy importante para definir el estado de maduracion de éste y su calidad.Además le otorga un aire de modernidad, muy contrastante con la concepción de campo chileno, pudiendo así destacar a nivel internaciona
 
+#### La identidad intenta ser colorida y con carácter mediante bloques de colores y contrastes fuertes; ésto con el fin de lograr llamar la atención y considerado un bien de lujo o algo deseable; no meramente comida.
 
 
 
