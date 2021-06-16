@@ -25,6 +25,7 @@
 ###  Ciavolich Vini: Sitio web que da a conocer la historia, cultura y territorio de esta bodega italiana de Abruzzo 
 #### [https://www.ciavolich.com/](https://www.ciavolich.com/)
 
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/vino.png "Cianovalich")
 
 #### Aspectos positivos: 
 
@@ -42,6 +43,8 @@
 
 ### Thomas Vegetables: pequeña tienda de productos agrícolas establecida en 1980. Una tienda que siempre dependió de la publicidad de boca en boca que actualmente intenta llegar a la generación joven.
 #### [https://www.thomasvegetables.com/ ]
+
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/thomas.png "Cianovalich")
 
 
 #### Aspectos positivos:
@@ -62,6 +65,8 @@
 ### Oerlemans Foods: promueve una vida saludable y sostenible, desde el campo hasta la mesa, conectando a las personas con productos naturales que son relevantes y amados.
 #### [https://www.awwwards.com/sites/oerlemans-foods]
 
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/Oerlemans.png "Oerlemans")
+
 ##### Aspecto positivo: 
 
 1. Muestran varios productos enteros y cortado-congelado; como ellos lo venden en la portada
@@ -79,6 +84,8 @@
 ### GARCES FRUIT,  es una empresa agrícola de fuerte tradición familiar que fue fundada hace más de cincuenta y cinco años en el campo de la zona central de Chile.
 
 #### [ https://www.garcesfruit.com/ ]
+
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/garces.png "Agricola Garces")
 
 ##### Aspecto positivo 
 1. Tiene versión en inglés
@@ -102,6 +109,8 @@
 
 #### [https://www.grannyssecret.com/  ]
 
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/granny_secret.png "Granny Secrets")
+
 ##### Aspecto positivo 
 1. Opción de escuchar el ítem “Historia”; genera cercanía
 2. Imágenes reales; bien resulta la parte de historia
@@ -116,6 +125,8 @@
 
 ### Calexo: Una bebida espumosa de cannabis elaborada con zumos de frutas de alta calidad, productos botánicos y THC nanoemulsionado.
 ### [ https://calexo.co/]
+
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/cerveza.png "Calexo")
 
 ##### Positivo
 
