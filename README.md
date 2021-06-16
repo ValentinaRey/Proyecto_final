@@ -76,7 +76,7 @@
 
 ### Oerlemans Foods
 #### Promueve una vida saludable y sostenible, desde el campo hasta la mesa, conectando a las personas con productos naturales que son relevantes y amados.
-#### [https://www.awwwards.com/sites/oerlemans-foods]
+#### [https://www.oerlemans-foods.nl/en]
 
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/Oerlemans.png "Oerlemans")
 
