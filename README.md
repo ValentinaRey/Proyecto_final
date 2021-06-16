@@ -23,7 +23,8 @@
 
 ## Antecedentes 
 
-###  Ciavolich Vini: Sitio web que da a conocer la historia, cultura y territorio de esta bodega italiana de Abruzzo 
+###  Ciavolich Vini
+#### Sitio web que da a conocer la historia, cultura y territorio de esta bodega italiana de Abruzzo.
 #### [https://www.ciavolich.com/](https://www.ciavolich.com/)
 
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/vino.png "Cianovalich")
@@ -42,7 +43,8 @@
 2. No tiene icono para volver arriba, hay que hacer el scroll de vuelta.
 
 
-### Thomas Vegetables: pequeña tienda de productos agrícolas establecida en 1980. Una tienda que siempre dependió de la publicidad de boca en boca que actualmente intenta llegar a la generación joven.
+### Thomas Vegetables
+#### Pequeña tienda de productos agrícolas establecida en 1980. Una tienda que siempre dependió de la publicidad de boca en boca que actualmente intenta llegar a la generación joven.
 #### [https://www.thomasvegetables.com/ ]
 
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/thomas.png "Cianovalich")
@@ -63,7 +65,8 @@
 1. No hay una reseña de la variedad de producto que ofrece; solo está el elemento gráfico.
 2. No tiene mapa de la dirección directamente; poco intuitivo
 
-### Oerlemans Foods: promueve una vida saludable y sostenible, desde el campo hasta la mesa, conectando a las personas con productos naturales que son relevantes y amados.
+### Oerlemans Foods
+#### Promueve una vida saludable y sostenible, desde el campo hasta la mesa, conectando a las personas con productos naturales que son relevantes y amados.
 #### [https://www.awwwards.com/sites/oerlemans-foods]
 
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/Oerlemans.png "Oerlemans")
@@ -82,7 +85,8 @@
 3. La parte del texto “Actual” queda un poco monótona en contraste con el resto de la página.
 4. Se podría potenciar más la tipografía y jugar con tamaños
 
-### GARCES FRUIT,  es una empresa agrícola de fuerte tradición familiar que fue fundada hace más de cincuenta y cinco años en el campo de la zona central de Chile.
+### GARCES FRUIT
+#### Empresa agrícola de fuerte tradición familiar que fue fundada hace más de cincuenta y cinco años en el campo de la zona central de Chile.
 
 #### [ https://www.garcesfruit.com/ ]
 
@@ -106,7 +110,8 @@
 4. No ponen directamente un mapa (las direcciones son muy específicas)
 5. En el proceso productivo usan iconos; poco verosímil o cercano
 
-### Granny's Secret es una marca premium de todos los alimentos finos naturales y jugos de frutas. Las frutas y verduras se cosechan a mano y se cocinan a fuego lento para preservar todos los beneficios originales de los ingredientes crudos. Los resultados son productos deliciosos, sabrosos y saludables que deleitan a los consumidores en más de 20 mercados en todo el mundo.
+### Granny's Secret 
+#### Marca premium de todos los alimentos finos naturales y jugos de frutas. Las frutas y verduras se cosechan a mano y se cocinan a fuego lento para preservar todos los beneficios originales de los ingredientes crudos. Los resultados son productos deliciosos, sabrosos y saludables que deleitan a los consumidores en más de 20 mercados en todo el mundo.
 
 #### [https://www.grannyssecret.com/  ]
 
