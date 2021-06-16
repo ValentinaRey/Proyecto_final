@@ -142,12 +142,13 @@
 ## Referentes 
 ![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/referentes.png "Mood Board")
 
-1. La identidad del la pagina intenta ser colorida y con caracter mediante bloques de colores y contrastes fuertes; ésto con el fin de lograr llamar la atención en mercados internacionales al ser considerado un bien de lujo o algo deseable; no meramente comida. 
-2. La frescura se transmite con transparencias, humedad, agua y gotas pero controlado. Por otro lado, se destacan las texturas de las frutas con el fin de mostrar la escencia natural y realista. 
-3. El azul como color artificial y contrastante es un buen color para rasaltar los colores del producto; algo muy importante para definir el estado de maduracion de éste y su calidad.
-4. Los zoom a las frutas transmite seguiridad en la calidad de éstos.
-5. La mezcla de mas de un producto en una imagen enriquece y potencia el significado que tiene detras la marca y su intención. 
-6. En las 6 fotos y la paleta de colores se puede observar una continuidad del relato de la marca; siendo única y buscando posicionarse mediante su propia identidad distintiva. Buscando llenar de significado a sus clientes; no como simplemente fruta.
+1. En primer lugar, trate de expresar mediante frutas, agua, colores, texturas y el perfume Dark Fresh que capta lo fresco, pero de una manera disruptiva ; jugando con estos elementos para componer la identidad de la página.
+2. La identidad del la pagina intenta ser colorida y con caracter mediante bloques de colores y contrastes fuertes; ésto con el fin de lograr llamar la atención en mercados internacionales al ser considerado un bien de lujo o algo deseable; no meramente comida. 
+3. La frescura se transmite con transparencias, humedad, agua y gotas pero controlado. Por otro lado, se destacan las texturas de las frutas con el fin de mostrar la escencia natural y realista. Además de proyectar una temperatura fresca y baja en donde se asocia a que el producto estará en buen estado y bien conservado.
+4. El azul como color artificial y contrastante es un buen color para rasaltar los colores del producto; algo muy importante para definir el estado de maduracion de éste y su calidad. Además le otorga un aire de modernidad, muy contrastante con la concepción de campo chileno, pudiendo así destacar a nivel internacional.
+5. Los zoom a las frutas transmite seguiridad en la calidad de éstos.
+6. La mezcla de mas de un producto en una imagen enriquece y potencia el significado que tiene detras la marca y su intención. 
+7. En las 6 fotos y la *paleta de colores* se puede observar una continuidad del relato de la marca; siendo única y buscando posicionarse mediante su propia identidad distintiva. Buscando llenar de significado a sus clientes; no como simplemente fruta.
 
 
 
