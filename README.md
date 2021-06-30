@@ -168,32 +168,32 @@
 ##### Fotográfia de Frutas: 
 ##### Utiliza el azul y en degrade a una textura de agua, color que alude a fescura y temperaturas bajas en donde se asocia a que el producto estará en buen estado y bien conservado. La mezcla de más de un producto en una imágen enriquece y potencia el significado que tiene detras la marca y su intención. La fruta cortada es otro indicio de seguridad frente a la calidad.Rompe con la concepción tradicional que se tiene sobre la fruta.
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/frutas.png "frutas")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ref_1.webp"frutas")
 
 #### Plátano con efecto de vidrio: 
 ##### La frescura y pureza se transmite con transparencias, además en esta foto se logran crear zoom a la textura del plátano pero de manera creativa. Logra potenciar cualidades del producto.
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/platano.png "platano y vidrio")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ref_2.webp "platano y vidrio")
 
 #### Naranja cayendo en agua: 
 ##### Muestra dinamísmo y frescura en el contraste de la fruta con el agua, se logra un contraste llamativo y se proyecta un relato sobre el producto. Se potencia el agua.
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/naranja.png "naranja y agua")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ref_3.webp"naranja y agua")
 
 #### Zoom de cereza: 
 ##### Se muestra la humedad, agua y gotas pero controlado; mostrándola como recién lavada listo para comer. Se relaciona con lo natural y nativo pero sin ser pretencioso; logrando trasnmitir cercanía pero de una forma que denoste calidad.
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/cereza.png "zoom cereza")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ref_4.webp "zoom cereza")
 
 #### Zoom de arándanos: 
 ##### Se destaca la textura de las frutas con el fin de mostrar la escencia natural y realista. Transmite seguiridad en la calidad de éstos, además de honestidad sobre lo que se ofrece.
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/arandanos.png "zoom arandanos")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ref_5.webp "zoom arandanos")
 
 #### Perfume Dark Fresh de *Desigual*: 
 ##### Capta lo fresco, pero de una manera disruptiva y no obvia; juega con elementos como  frutas, agua, colores, texturas para componer una identidad potente. Proyecta frescura pero con carácter. Constrastan bien los colores y tiene un aire moderno; siendo una reinvención de la frescura que generalmente se asocia a algo *soft* o *light*
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/referente/perfume.png "perfume")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/ref_6.webp "perfume")
 
 
 
