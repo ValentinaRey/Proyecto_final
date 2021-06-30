@@ -56,7 +56,7 @@
 #### Pequeña tienda de productos agrícolas establecida en 1980. Una tienda que siempre dependió de la publicidad de boca en boca que actualmente intenta llegar a la generación joven.
 #### [https://www.thomasvegetables.com/ ]
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/antecedente_2.webp"Cianovalich")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/antecedente_2.webp "Cianovalich")
 
 
 #### Aspectos positivos:
