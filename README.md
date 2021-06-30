@@ -155,7 +155,7 @@
 1. Poco contraste en tipografía light blanca
 
 ## Referentes 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/moodbooard.webp "Mood Board")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/moodbooard_ref.webp "Mood Board")
 
 #### Paleta de colores:  
 
