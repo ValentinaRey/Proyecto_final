@@ -9,7 +9,7 @@
 
 #### Proveedores internacionales: (Medio/Ideal)
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/george.jpeg "George")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/arquetipo_1.webp "George")
 
 
 ##### *George*, su nombre/apodo occidental, es un proveedor chino de 30 años.
@@ -17,14 +17,14 @@
 
 #### Proveedores nacionales: (Extremo) 
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/juan_pablo.jpeg "Juan Pablo")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/arquetipo_2.webp "Juan Pablo")
 
 ##### Juan Pablo Miranda, Agrícola de 44 años. 
 ###### Viene de una familia tradicional, de Talca, que ha estado ligada al agro desde generaciones pero últimamente no han administrado muy bien su negocio y tuvieron que vender parte de los terrenos de producción. Tiene un packing en donde distribuyen sus productos sin embargo no tiene suficiente terreno para producir ya que mantienen relación con antiguos clientes pero su capacidad ya no es la misma de antes, por lo que tiene que suplir su demanda comprando a otras agricolas para poder cumplir con los contratos que tenían acordados. Busca buenos precios, para que sea rentable su negocio aunque sigue manteniendo su interés por dar un producto con experiencia y gran calidad su estado financiero no se lo permite a cabalidad; por lo que tendrá que regatear y negociar el mejor precio aunque no se sienta orgulloso de hacerlo. Anda mucho en terreno, ya sea trabajando en su campo o buscando proveedores por lo que siempre anda con su celular el caul suele mirar desde su camioneta en momentos de descanso; muy de vez en cuando usa el computador, no se relaciona tanto con la tecnología pese a su edad. Piensa y quiere poder darle los mejores porductos aa sus clientes pero está agobiado por que no sabe como lo logrará.
 
 #### Gerentes de grandes supermercados (Extremo)
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/jumbo.png "Jumbo")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/arquetipo_3.webp "Jumbo")
 
 ##### Rodrigo Larrain, Gerente de Ventas Jumbo Zona Oriente  48 años. 
 ###### Es el encargado de generar alianzas y contratos con agrícolas para abstecer la zona de verdulería de los supermercados Jumbo. Es ingeniero comercial, y su prioridad en parte son los números y negocios que pueda tener en caso de contactar a la agrícola. Pero además de ésto, le importa el marketing y el valor que le pueda otorgar la marca de la agrícola y su identidad dentro del supermercado posicionandola como un producto más exclusivo y asi atraer a una clientela con mayor ingresos económicos; lo cúal es viable ya que estos se encuentran en comunas con alto estandar de vida. Su trabajo es mayoritariamente de oficina por lo que revisa páginas desde su computador de mesa. Es muy minucioso con los proveedores que elige la empresa, ya que le importa mucho su trabajo y siempre está cuidandolo. Es un fan del marketing asi que le importa bastante el como se presenta el producto y su identidad. Siente una gran responsabilidad frente a esta elección.
@@ -36,7 +36,7 @@
 #### Sitio web que da a conocer la historia, cultura y territorio de esta bodega italiana de Abruzzo.
 #### [https://www.ciavolich.com/](https://www.ciavolich.com/)
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/vino.png "Cianovalich")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/antecedente_1.webp "Cianovalich")
 
 #### Aspectos positivos: 
 
@@ -56,7 +56,7 @@
 #### Pequeña tienda de productos agrícolas establecida en 1980. Una tienda que siempre dependió de la publicidad de boca en boca que actualmente intenta llegar a la generación joven.
 #### [https://www.thomasvegetables.com/ ]
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/thomas.png "Cianovalich")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/antecedente_2.webp"Cianovalich")
 
 
 #### Aspectos positivos:
@@ -78,7 +78,7 @@
 #### Promueve una vida saludable y sostenible, desde el campo hasta la mesa, conectando a las personas con productos naturales que son relevantes y amados.
 #### [https://www.oerlemans-foods.nl/en]
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/Oerlemans.png "Oerlemans")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/antecedente_3.webp "Oerlemans")
 
 ##### Aspecto positivo: 
 
@@ -99,7 +99,7 @@
 
 #### [ https://www.garcesfruit.com/ ]
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/garces.png "Agricola Garces")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/antecedente_4.webp  "Agricola Garces")
 
 ##### Aspecto positivo 
 1. Tiene versión en inglés
@@ -124,7 +124,7 @@
 
 #### [https://www.grannyssecret.com/  ]
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/granny_secret.png "Granny Secrets")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/antecedente_5.webp "Granny Secrets")
 
 ##### Aspecto positivo 
 1. Opción de escuchar el ítem “Historia”; genera cercanía
@@ -141,7 +141,7 @@
 ### Calexo: Una bebida espumosa de cannabis elaborada con zumos de frutas de alta calidad, productos botánicos y THC nanoemulsionado.
 ### [ https://calexo.co/]
 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/cerveza.png "Calexo")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/antecedente_6.webp "Calexo")
 
 ##### Positivo
 
@@ -155,7 +155,7 @@
 1. Poco contraste en tipografía light blanca
 
 ## Referentes 
-![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/referentes.png "Mood Board")
+![alt text]( https://raw.githubusercontent.com/ValentinaRey/Proyecto_final/main/images/moodbooard.webp "Mood Board")
 
 #### Paleta de colores:  
 
